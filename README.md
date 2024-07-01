@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serhii Kabanets</h1>
 <h3 align="center">A passionate full-stack developer from Ukraine</h3>
 <div id="header" align="center">
-  <img src="https://media.licdn.com/dms/image/D4D12AQEZtPCuttD_iQ/article-cover_image-shrink_600_2000/0/1697453573297?e=2147483647&v=beta&t=HkN6gZbpfAZ0k5Xb88iQXfQpbeKR-YHIKCvzI0gbIhM" width="500"/>
+  <img src="https://media.licdn.com/dms/image/D4D12AQEZtPCuttD_iQ/article-cover_image-shrink_600_2000/0/1697453573297?e=2147483647&v=beta&t=HkN6gZbpfAZ0k5Xb88iQXfQpbeKR-YHIKCvzI0gbIhM" width="400"/>
 </div>
 
 <h3 align="left">📫 How to reach me:</h3>
