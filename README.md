@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Serhii Kabanets</h1>
-<h3 align="left">A passionate full-stack developer from Ukraine</h3>
-<div id="header" align="left">
+<h3 align="center">A passionate full-stack developer from Ukraine</h3>
+<div id="header" align="center">
   <img src="https://media.licdn.com/dms/image/D4D12AQEZtPCuttD_iQ/article-cover_image-shrink_600_2000/0/1697453573297?e=2147483647&v=beta&t=HkN6gZbpfAZ0k5Xb88iQXfQpbeKR-YHIKCvzI0gbIhM" width="500"/>
 </div>
 
@@ -28,9 +28,4 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/> 
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/> 
     <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material-ui"/> 
-</div>
-
-<h3 align="left">Stats:</h3>
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skabanets&show_icons=true&locale=en" alt="skabanets" />
 </div>
