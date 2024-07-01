@@ -4,15 +4,6 @@
   <img src="https://media.licdn.com/dms/image/D4D12AQEZtPCuttD_iQ/article-cover_image-shrink_600_2000/0/1697453573297?e=2147483647&v=beta&t=HkN6gZbpfAZ0k5Xb88iQXfQpbeKR-YHIKCvzI0gbIhM" width="400"/>
 </div>
 
-<h3 align="left">📫 How to reach me:</h3>
-<div style="display: flex; gap: 10px;">
-<a href="https://www.linkedin.com/in/serhii-kabanets/" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
-<a href="https://t.me/sergey_kabanets" style="text-decoration: none;"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="mailto:skabanets97@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</div>
-
-<h3 align="left">📄 Know about my experiences <a href="https://drive.google.com/file/d/1KfbQ1aURvB4iRxATzEodN-ifkiDxsH2b/view" style="text-decoration: none; color: inherit;">[CV]</a></h3>
-
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; width: 100%;"> 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
@@ -29,3 +20,12 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/> 
     <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material-ui"/> 
 </div>
+
+<h3 align="left">📫 How to reach me:</h3>
+<div style="display: flex; gap: 10px;">
+<a href="https://www.linkedin.com/in/serhii-kabanets/" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+<a href="https://t.me/sergey_kabanets" style="text-decoration: none;"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="mailto:skabanets97@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</div>
+
+<h3 align="left">📄 Know about my experiences <a href="https://drive.google.com/file/d/1KfbQ1aURvB4iRxATzEodN-ifkiDxsH2b/view" style="text-decoration: none; color: inherit;">[CV]</a></h3>
