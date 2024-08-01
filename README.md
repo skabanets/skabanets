@@ -28,4 +28,4 @@
 <a href="mailto:skabanets97@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
 
-<h3 align="left">📄 Know about my experiences <a href="https://drive.google.com/file/d/1KfbQ1aURvB4iRxATzEodN-ifkiDxsH2b/view" style="text-decoration: none; color: inherit;">[CV]</a></h3>
+<h3 align="left">📄 Know about my experiences <a href="https://drive.google.com/file/d/1EgdTv17jfgYKgiiF81Tx8UzG_b1Hu2FJ/view" style="text-decoration: none; color: inherit;">[CV]</a></h3>
