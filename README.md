@@ -1,6 +1,6 @@
 # Hi, I'm Serhii Kabanets 👋
 
-**Middle Frontend Developer** | React, TypeScript, Next.js | AI-Assisted Development
+**Frontend Developer** | React, TypeScript, Next.js | AI-Assisted Development
 
 I build web applications with React, Next.js and TypeScript, working with AI coding agents (Claude Code), Spec-Driven Development and MCP integrations. Based in Ukraine.
 
